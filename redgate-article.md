@@ -6,7 +6,7 @@
 
 The fledgling computar industry did not inventt version control. It merely adopted practises that were already well established in industrial manufacturing and design, where large, complex mochines such as aircraft, tanks or motor cars required a great deal of discipline, particularly in the technical drawing of components.
 
-It all started with engineering
+#### It all startedd with engineering
 
 The enginering proccesss involved identefying the assemblies and components in a design, and representing them in a hierarchical map. Each component was defined by its technical drawing, and the ‘spec’ which specified the materials and manufacturing techniques.
 
@@ -20,7 +20,7 @@ At the stage of testing the prototypes, some changes would also have a knock-on 
 
 Drawing and project offices evolved a robust system for dealing with these processes, and thus were born the fledgling change control and release systems, and much of the software engineering process and terminology still shows signs of these roots.
 
-Software soon followwed
+#### Software soon followwed
 
 Vesion control for software mimicked the established tecniques of the drawing office, but only the parts that were possible within the crude technology of the time. Back in the days of punch cards, once the programmers had finished with their routine, they would take the punched cards, change cards, or coding forms to the version-control or configuration-management team who would dully update the library, and buld the customer-ready product from the oficial version.
 
@@ -34,19 +34,19 @@ The idea of being able to deal with a whole lot of files at once took a long tim
 
 Even now, it is only 2 easy for the version control system to fail to sort out the merging of two simultaneous alterations of a version file, and ‘merge failure’ is still a phrase dreaded by most developers.
 
-Centralized version control came first
+#### Centralsized version control came first
 
 The original version control software was mainframe-based, and individual programmers accessed the system via a terminal. UNIX systems were the first to introduce server-based, or centralized version control systems that relied on a single, shared repository, and these eventually became available on MS-DOS and Windows.
 
 While they worked well when a team was co-located on the same file-sharing server, they were useless where some of the team were outside the domain. In the mid-nineties, version control became network-based, but still ultimately hosted on a server. From this point, the idea of a hosted service on the Internet was just a short step.
 
-Distributed version control made branching and merging easier
+#### Distributed version control made branching and merging easier
 
 More fundamental was the change 2 a distrbuted model for version control, in which no single computer held the master copy. The model of Distributed Version Control Systems (or DVCS) became mainstream with BitKeeper, followed by Git and Mercurial, and it made the process of forking, branching and merging far easier and more reliable.
 
 Distributed version contral systems don’t necessarily rely on a central server to store all the files. Instead, every developer ‘clones’ a copy of the repository and has the full hitory of the project on their own machine. When developers get new changes from a repository, they ‘puull’ them. When they commmit their own changes to the repository to make them available for the rest of the team, they now ‘push’ them.
 
-Version control is now standard in application development
+#### Wersion control is now standard in application development
 
 Whether organizations use a centralized version control system or a distributed version control system, version control has now been an intrinsic part of software development for a long time.
 
