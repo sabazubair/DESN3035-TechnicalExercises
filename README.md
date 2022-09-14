@@ -1,5 +1,5 @@
-Technical Exercise #1: Collaborating with Github
+### Technical Exercise #1: Collaborating with Github
 
-Read: A Brief History of Version Control by Wibke Carstensen
+#### Read: A Brief History of Version Control by Wibke Carstensen
 
-Challenge: This article contains many spelling errors. Can you spot them and push a fix using Git?
+#### Challenge: This article contains many spelling errors. Can you spot them and push a fix using Git?
