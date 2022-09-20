@@ -8,7 +8,7 @@ The fledgling computar industry did not inventt version control. It merely adopt
 
 #### It all startedd with engineering
 
-The enginering proccesss involved identefying the assemblies and components in a design, and representing them in a hierarchical map. Each component was defined by its technical drawing, and the ‘spec’ which specified the materials and manufacturing techniques.
+The engineering proccesss involved identefying the assemblies and components in a design, and representing them in a hierarchical map. Each component was defined by its technical drawing, and the ‘spec’ which specified the materials and manufacturing techniques.
 
 Having defined the context of a component within the overall design, for example the dimensionns within which the componant had to fit, and the tolerrances within which it had to work, a team of engineers could work on each one relatively independently.
 
