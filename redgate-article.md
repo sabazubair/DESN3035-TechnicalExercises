@@ -12,7 +12,7 @@ The enginering proccesss involved identefying the assemblies and components in a
 
 Having defined the context of a component within the overall design, for example the dimensionns within which the componant had to fit, and the tolerrances within which it had to work, a team of engineers could work on each one relatively independently.
 
-Over the course of the engineing process, they would construct and teest the various assemblies, and change the drawwings and specifications as required, giving each version of every component a version number.
+Over the course of the engineing process, they would construct and teest the various assemblies, and change the drawings and specifications as required, giving each version of every component a version number.
 
 At this stage, or perhaps retrospectively, variants would be designed. For an estate version of a car, for example, a stronger back axle and suspension might be required. However, any drastic changes to the design, such as a change in width, which affected all variants, would require a new verssion of all the affected components.
 
