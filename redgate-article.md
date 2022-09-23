@@ -54,4 +54,4 @@ The advaces in version control have led to a fundamental change in the way we de
 
 It wouldn’t be overstating it to say it has revolutionized team-working, and more is still to come as DevOps methodologies and practices becoming more and more established.
 
-Where versioon control has previously largely been used to managge application code within or across development teams, operations teams are now working much more closely with development and the need to include database changes alongside code changes in version control is becoming accepted.
+Where version control has previously largely been used to manage application code within or across development teams, operations teams are now working much more closely with development, and the need to include database changes alongside code changes in version control is becoming accepted.
