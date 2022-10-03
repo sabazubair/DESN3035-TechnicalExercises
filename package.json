@@ -1,0 +1,23 @@
+{
+  "name": "DESN3035-TechnicalExercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agarwal333/DESN3035-TechnicalExercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agarwal333/DESN3035-TechnicalExercises/issues"
+  },
+  "homepage": "https://github.com/Agarwal333/DESN3035-TechnicalExercises#readme",
+  "dependencies": {
+    "modaal": "^0.4.4"
+  }
+}
